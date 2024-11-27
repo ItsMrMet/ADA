@@ -1,0 +1,12 @@
+main\Conexion.class
+model\Cliente.class
+model\Fabrica.class
+model\Fabricar.class
+model\Pedido.class
+controlador\ClienteControlador.class
+dao\ClienteDAO.class
+model\Direccion.class
+model\Incluye.class
+dao\DireccionDAO.class
+main\Main.class
+model\Articulo.class
