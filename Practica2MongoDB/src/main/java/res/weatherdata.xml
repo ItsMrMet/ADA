@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weatherdata_tv24>
+    <weatherdata>
+        <record_id>401</record_id>
+        <city>Madrid</city>
+        <country>Spain</country>
+        <latitude>40.4168</latitude>
+        <longitude>-3.7038</longitude>
+        <date>2023-11-10</date>
+        <temperature_celsius>15</temperature_celsius>
+        <humidity_percent>65</humidity_percent>
+        <precipitation_mm>2.5</precipitation_mm>
+        <wind_speed_kmh>20</wind_speed_kmh>
+        <weather_condition>Cloudy</weather_condition>
+        <forecast>Light rain expected in the afternoon</forecast>
+        <updated>2023-11-10</updated>
+    </weatherdata>
+    <weatherdata>
+        <record_id>402</record_id>
+        <city>Valencia</city>
+        <country>Spain</country>
+        <latitude>39.4699</latitude>
+        <longitude>-0.3763</longitude>
+        <date>2023-11-10</date>
+        <temperature_celsius>18</temperature_celsius>
+        <humidity_percent>72</humidity_percent>
+        <precipitation_mm>0</precipitation_mm>
+        <wind_speed_kmh>15</wind_speed_kmh>
+        <weather_condition>Partly cloudy</weather_condition>
+        <forecast>Clear skies expected throughout the day</forecast>
+        <updated>2023-11-10</updated>
+    </weatherdata>
+    <weatherdata>
+        <record_id>403</record_id>
+        <city>Barcelona</city>
+        <country>Spain</country>
+        <latitude>41.3784</latitude>
+        <longitude>2.1925</longitude>
+        <date>2023-11-10</date>
+        <temperature_celsius>17</temperature_celsius>
+        <humidity_percent>78</humidity_percent>
+        <precipitation_mm>0.1</precipitation_mm>
+        <wind_speed_kmh>10</wind_speed_kmh>
+        <weather_condition>Light rain</weather_condition>
+        <forecast>Scattered showers throughout the day</forecast>
+        <updated>2023-11-10</updated>
+    </weatherdata>
+    <weatherdata>
+        <record_id>404</record_id>
+        <city>Alicante</city>
+        <country>Spain</country>
+        <latitude>38.3452</latitude>
+        <longitude>-0.4810</longitude>
+        <date>2023-11-10</date>
+        <temperature_celsius>21</temperature_celsius>
+        <humidity_percent>58</humidity_percent>
+        <precipitation_mm>0</precipitation_mm>
+        <wind_speed_kmh>25</wind_speed_kmh>
+        <weather_condition>Sunny</weather_condition>
+        <forecast>Clear skies with no precipitation</forecast>
+        <updated>2023-11-10</updated>
+    </weatherdata>
+    <weatherdata>
+        <record_id>405</record_id>
+        <city>Castellón de la Plana</city>
+        <country>Spain</country>
+        <latitude>39.9860</latitude>
+        <longitude>-0.0376</longitude>
+        <date>2023-11-10</date>
+        <temperature_celsius>14</temperature_celsius>
+        <humidity_percent>85</humidity_percent>
+        <precipitation_mm>5.2</precipitation_mm>
+        <wind_speed_kmh>18</wind_speed_kmh>
+        <weather_condition>Heavy rain</weather_condition>
+        <forecast>Rain expected to continue until evening</forecast>
+        <updated>2023-11-10</updated>
+    </weatherdata>
+</weatherdata_tv24>
